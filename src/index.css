@@ -1,0 +1,10 @@
+.crime-marker {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .crime-marker img {
+    width: 20px;
+    height: 20px;
+  }
