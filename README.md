@@ -10,7 +10,6 @@ It uses API from http://mapbox.com/ and http://data.police.uk/
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -47,9 +46,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 * Given point on map of crime
 * Given category and street name
 
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
 
 ## Status
 Project is: finished
